@@ -90,7 +90,7 @@ cd multiscale-cell-cycle
 
 If you use this code or the generated datasets in your research, please cite:
 
-> Solis-Calero, Christian (2026). Multiscale Modeling of Cell Cycle and Cell Growing Dynamics in Carcinogenesis: Integrating Boolean Stochastic Networks with Agent-Based Cell Simulation. [Institution Name].
+> Solis-Calero, Christian (2026). Multiscale Modeling of Cell Cycle and Cell Growing Dynamics in Carcinogenesis: Integrating Boolean Stochastic Networks with Agent-Based Cell Simulation. [Universitat de les Illes Balears].
 
 ---
 **Contact:** [csolisc@unmsm.edu.pe] for any inquiries regarding the implementation or data.
