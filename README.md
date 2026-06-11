@@ -4,7 +4,7 @@ This repository contains the source code, simulation configuration files, and an
 
 **A Hybrid Multiscale Framework for Cancer Progression: Coupling Boolean Networks with Cellular Potts Models"**
 
-![GitHub Logo](https://github.com/yourusername/multiscale-cell-cycle/blob/main/Cover_figure.png)
+![GitHub Logo]([https://raw.githubusercontent.com/ChristianQF/cell_cycle_cancer/refs/heads/main/results/Video-09-15-RFF-N.gif]
 
 
 ## Overview
