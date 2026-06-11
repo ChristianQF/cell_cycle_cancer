@@ -1,6 +1,6 @@
 # Supplementary Material: A Hybrid Multiscale Framework for Cancer Progression: Coupling Boolean Networks with Cellular Potts Models
 
-This repository contains the source code, simulation configuration files, and analytical pipelines used in the study:
+This repository contains the, simulation results files, and analytical pipelines used in the study:
 
 **A Hybrid Multiscale Framework for Cancer Progression: Coupling Boolean Networks with Cellular Potts Models"**
 
